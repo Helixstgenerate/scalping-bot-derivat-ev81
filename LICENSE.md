@@ -1,4 +1,4 @@
-# 
+# top scalping bot for derivatives Module | isolated-margin + stop-loss is the best scalping bot for derivatives, featuring isolated-margin and stop-loss. Smart, fast, and optimized
 
 
 
